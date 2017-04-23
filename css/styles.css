@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: rgba(91, 192, 222, 0.65);
+  background-color: rgba(49, 112, 143, 0.55);
   color: white;
 }
 
@@ -16,6 +16,12 @@
 
 .wiki {
   float: left;
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
+
+p {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #2f4854;
+  {
