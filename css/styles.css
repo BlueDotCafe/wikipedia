@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: rgba(91, 192, 222, 0.65);
+  color: white;
+}
+
+.well {
+  background-color: rgba(217, 35, 15, 0.12);
+}
+
+
+.important {
+  font-family: sans-serif;
+  font-weight: lighter;
+
+}
+
+.wiki {
+  float: left;
+  height: 200px;
+  width: 200px;
+}
